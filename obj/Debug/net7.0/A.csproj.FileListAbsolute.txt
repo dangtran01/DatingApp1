@@ -65,3 +65,4 @@
 /Users/dangtran/Documents/AngularAsp.net/DatingApp01/A/bin/Debug/net7.0/runtimes/osx-x64/native/libsqlite3.dylib
 /Users/dangtran/Documents/AngularAsp.net/DatingApp01/A/bin/Debug/net7.0/runtimes/win7-x64/native/sqlite3.dll
 /Users/dangtran/Documents/AngularAsp.net/DatingApp01/A/bin/Debug/net7.0/runtimes/win7-x86/native/sqlite3.dll
+/Users/dangtran/Documents/AngularAsp.net/DatingApp01/A/bin/Debug/net7.0/global.json
